@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-//Encapsulation is wrapping up data and memner functions or methods into a single unit called class. It is used to restrict access to the data members and member functions of the class.
+//Encapsulation is wrapping up data and member functions or methods into a single unit called class. It is used to restrict access to the data members and member functions of the class.
 
 
 class car{
