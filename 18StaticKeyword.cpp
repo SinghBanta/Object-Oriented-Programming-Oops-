@@ -37,7 +37,7 @@ class ABC{
 int main(){
     if(true){
         static ABC obj;//Static object is created in the static memory area and it is destroyed when the program ends.
-        cout<<"end of function call"<<endl;
+        cout<<"end"<<endl;
     }
 
 }
